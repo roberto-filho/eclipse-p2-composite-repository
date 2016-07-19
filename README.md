@@ -1,4 +1,5 @@
 # eclipse-p2-composite-repository
+## roberto-filho version
 
 Eclipse p2 composite repositories allow you to combine several p2 repositories (aka Eclipse update site)
 into 1 virtual repository, that can be hosted anywhere including local folder.
@@ -6,7 +7,7 @@ into 1 virtual repository, that can be hosted anywhere including local folder.
 *Enide repository* will try to collect all useful Eclipse plugins around the world.
 (I guess performance maybe low due to different and many network delays.)
 
-Update p2 repository URL: `https://raw.github.com/Enide/eclipse-p2-composite-repository/master/`
+Update p2 repository URL: `https://raw.github.com/roberto-filho/eclipse-p2-composite-repository/master/`
 
 [How to use](http://marketplace.eclipse.org/updatesite/help?url=https://raw.github.com/Enide/eclipse-p2-composite-repository/master/)
 
@@ -27,12 +28,4 @@ So the best usage would be for those who already know the plugins, just need qui
 
 Authors should add Eclipse Help with info about plugin, how to use, etc. Have you been in a situation, 
 when you need a plugin you have used before,
-but you don't remember it's name (It is maybe installed in this Eclipse or other, but there is no way to check quickly.)
-
-
-<p><a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a></p>
-				
-<p><i>Hosted by</i><br>
-<a href="https://github.com/Nodeclipse">
-  <img src="https://github.com/github/media/raw/master/logos/github_logo_social_coding_outlined.png" style="border: 0" alt="github.com" height="39" width="88">
-</a></p>
+but you don't remember its name (It is maybe installed in this Eclipse or other, but there is no way to check quickly.)
