@@ -6,10 +6,11 @@
     <!-- Will fail if any of the repositories in this composite fail to load -->
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='http://updates.gtech.site/importacao'/>
   	<child location='http://updates.gtech.site/p2-target-fiscal'/>
   	<child location='http://updates.gtech.site/xpathandobjects'/>
   	<child location='http://updates.gtech.site/wsclient/'/>
+  	<child location='http://updates.gtech.site/rcputils'/>
   </children>
 </repository>
