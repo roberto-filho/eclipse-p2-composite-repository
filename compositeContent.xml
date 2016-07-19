@@ -3,6 +3,8 @@
 <repository name='Filho&#39;s repository' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
     <property name='p2.timestamp' value='1468937610'/>
+    <!-- Will fail if any of the repositories in this composite fail to load -->
+    <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
   <children size='4'>
     <child location='http://updates.gtech.site/importacao'/>
