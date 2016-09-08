@@ -1,5 +1,5 @@
 # eclipse-p2-composite-repository
-## roberto-filho version
+## roberto-filho version (this is a fork, not my authoring)
 
 Eclipse p2 composite repositories allow you to combine several p2 repositories (aka Eclipse update site)
 into 1 virtual repository, that can be hosted anywhere including local folder.
@@ -26,6 +26,6 @@ What you loose? Usually when you find plugin on Marketplace or via web search, y
 where to submit bug, news etc. When you have 100+ plugin in one update site, you are likely to miss something.
 So the best usage would be for those who already know the plugins, just need quicker way to install all favorites.
 
-Authors should add Eclipse Help with info about plugin, how to use, etc. Have you been in a situation, 
+Authors should add Eclipse Help with info about plugin, how to use, etc. Have you been in a situation,
 when you need a plugin you have used before,
 but you don't remember its name (It is maybe installed in this Eclipse or other, but there is no way to check quickly.)
