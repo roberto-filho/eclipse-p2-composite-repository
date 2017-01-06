@@ -7,7 +7,7 @@ into 1 virtual repository, that can be hosted anywhere including local folder.
 *Enide repository* will try to collect all useful Eclipse plugins around the world.
 (I guess performance maybe low due to different and many network delays.)
 
-Update p2 repository URL: `https://raw.github.com/roberto-filho/eclipse-p2-composite-repository/master/`
+Update p2 repository URL: `https://raw.githubusercontent.com/roberto-filho/eclipse-p2-composite-repository/master/`
 
 [How to use](http://marketplace.eclipse.org/updatesite/help?url=https://raw.github.com/Enide/eclipse-p2-composite-repository/master/)
 
